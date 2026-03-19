@@ -1,1 +1,1 @@
-# .github
+# ZHAW Agile Kittens
